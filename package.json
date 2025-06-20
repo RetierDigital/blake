@@ -1,0 +1,12 @@
+{
+  "name": "blake-gpt-backend",
+  "version": "1.0.0",
+  "main": "blake-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node blake-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
